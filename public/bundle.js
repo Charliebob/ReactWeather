@@ -26892,8 +26892,8 @@
 	        null,
 	        React.createElement(
 	          Link,
-	          { to: '/?location=Dallas' },
-	          'Dallas, TX'
+	          { to: '/?location=New York' },
+	          'The Weather in New York City, NY'
 	        )
 	      ),
 	      React.createElement(
@@ -26902,7 +26902,7 @@
 	        React.createElement(
 	          Link,
 	          { to: '/?location=Rio' },
-	          'Rio, Brazil'
+	          'The Weather in Rio, Brazil'
 	        )
 	      )
 	    )
